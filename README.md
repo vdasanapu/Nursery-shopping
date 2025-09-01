@@ -124,7 +124,7 @@ In IBM Cloud IDE there was an extra feature for this, where the port was entered
 npm run preview
 ```
 
-![image](https://github.com/user-attachments/assets/f9315a0a-66b6-46e3-baae-143535d662fc)
+<img width="490" height="202" alt="image" src="https://github.com/user-attachments/assets/d3d311b8-1321-47b5-b4bc-c138601cffe5" />
 
 5. The application can be stopped with Ctrl + C.<br>
 Step 4 must be repeated for each change to be visible.<br>
@@ -140,8 +140,9 @@ npm run deploy
 
 This commits changes in the gh-pages branch and updates the website.<br>
 A success message appears in the terminal:<br>
+<img width="481" height="200" alt="image" src="https://github.com/user-attachments/assets/22560967-3053-4cf4-af2f-f32fe8a25155" />
 
-<img width="490" height="202" alt="image" src="https://github.com/user-attachments/assets/d3d311b8-1321-47b5-b4bc-c138601cffe5" />
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
