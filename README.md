@@ -141,7 +141,8 @@ npm run deploy
 This commits changes in the gh-pages branch and updates the website.<br>
 A success message appears in the terminal:<br>
 
-![image](https://github.com/user-attachments/assets/fab6b039-34c0-4832-a1bd-c20295485ffb)
+<img width="490" height="202" alt="image" src="https://github.com/user-attachments/assets/d3d311b8-1321-47b5-b4bc-c138601cffe5" />
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <br>
