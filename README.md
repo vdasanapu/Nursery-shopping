@@ -110,9 +110,9 @@ Setup not tested on private IDE.<br>
 <br>
 Setup description from the course (slightly modified for my own project) in the IBM Cloud IDE:<br>
 1. Clone repository
-2. Change terminal path to folder "paradise-nursery-shopping-cart-app". E.g.:
+2. Change terminal path to folder "Nursery-shopping". E.g.:
 ```
-cd paradise-nursery-shopping-cart-app
+cd Nursery-shopping
 ```
 3. Install necessary packages to execute the application using npm:
 ```
